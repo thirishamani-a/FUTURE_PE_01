@@ -1,3 +1,3 @@
-# Task 02
+# Screenshots
 
-UGC Ad Content Pack
+This folder contains screenshots related to the project.
